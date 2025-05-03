@@ -130,7 +130,7 @@ function AboutUs() {
             </p>
             <div className="hero-cta">
               <button className="primary-button">
-                <a href="#Contact">Únete ahora</a>
+                <a href="#Contact">Contáctanos</a>
               </button>
             </div>
           </div>
